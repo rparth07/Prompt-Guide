@@ -38,13 +38,13 @@ module.exports = {
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Prompt Examples',
+        link: '/prompt examples/'
       },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+      // {
+      //   text: 'VuePress',
+      //   link: 'https://v1.vuepress.vuejs.org'
+      // }
     ],
     sidebar: {
       '/guide/': [
@@ -64,6 +64,25 @@ module.exports = {
             'chapter-9',
             'chapter-10',
             'appendix',
+          ]
+        }
+      ],
+      '/prompt examples/': [
+        {
+          title: 'Prompts',
+          collapsable: false,
+          children: [
+            // '',
+            'Autonomous Vehicles and Robotics',
+            'Climate Change and Environmental Sciences',
+            'Content Generation',
+            'Cybersecurity',
+            'Data Analytics and Business Intelligence',
+            'E-commerce and Customer Support',
+            'Education and E-Learning',
+            'Financial Services',
+            'HealthCare and Medical Research',
+            'NLP',
           ]
         }
       ],

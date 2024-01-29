@@ -11,7 +11,7 @@ Prompt engineering plays a crucial role in enhancing the performance of natural 
 Prompt: Analyze the sentiment of the following text: 'The movie was fantastic, and the acting was superb!'
 Model completion: Positive.
 ```
- 
+
 2. **Named Entity Recognition (NER)**: Prompt the model to identify and classify entities (e.g., names, locations, organizations) in a given text.
 
 **Example:**
