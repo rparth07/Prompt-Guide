@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4cc7b761","path":"/prompt-examples/financial-services.html","title":"Financial Services","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"prompt-examples/financial-services.md"}');export{e as data};

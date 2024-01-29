@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"Introduction","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"The Advantages of AI in Content Marketing","slug":"the-advantages-of-ai-in-content-marketing","link":"#the-advantages-of-ai-in-content-marketing","children":[]}],"git":{},"filePathRelative":"guide/README.md"}');export{e as data};
