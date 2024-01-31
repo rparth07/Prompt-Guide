@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://prompt-guide.netlify.app/</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-1</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-2</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-3</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-4</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-5</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-6</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-7</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-8</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-9</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/chapter-10</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/guide/appendix</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/autonomous-vehicles-and-robotics</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/climate-change-and-environmental-sciences</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/content-generation</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/cybersecurity</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/data-analytics-and-business-intelligence</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/e-commerce-and-customer-support</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/education-and-e-learning</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/financial-services</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/healthcare-and-medical-research</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prompt-guide.netlify.app/prompt-examples/nlp</loc>
+  <lastmod>2024-01-30T18:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
