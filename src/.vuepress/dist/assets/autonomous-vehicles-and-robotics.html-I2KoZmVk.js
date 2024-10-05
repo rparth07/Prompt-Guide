@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-99f98e96","path":"/prompt-examples/autonomous-vehicles-and-robotics.html","title":"Autonomous Vehicles and Robotics","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"prompt-examples/autonomous-vehicles-and-robotics.md"}');export{e as data};

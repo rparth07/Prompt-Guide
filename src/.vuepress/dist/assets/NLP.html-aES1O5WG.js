@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7136347d","path":"/prompt-examples/nlp.html","title":"NLP","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706556287000,"contributors":[{"name":"rparth07","email":"pmr642001@gmail.com","commits":1}]},"filePathRelative":"prompt-examples/nlp.md"}');export{t as data};

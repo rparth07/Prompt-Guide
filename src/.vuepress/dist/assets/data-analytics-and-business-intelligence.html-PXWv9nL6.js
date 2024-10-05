@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-55126f37","path":"/prompt-examples/data-analytics-and-business-intelligence.html","title":"Data Analytics and Business Intelligence","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"prompt-examples/data-analytics-and-business-intelligence.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1430f186","path":"/prompt-examples/climate-change-and-environmental-sciences.html","title":"Climate Change and Environmental Sciences","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"prompt-examples/climate-change-and-environmental-sciences.md"}');export{e as data};

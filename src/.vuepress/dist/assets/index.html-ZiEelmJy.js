@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-21231cd6","path":"/prompt-examples/","title":"Prompt Examples","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706556287000,"contributors":[{"name":"rparth07","email":"pmr642001@gmail.com","commits":1}]},"filePathRelative":"prompt-examples/README.md"}');export{e as data};

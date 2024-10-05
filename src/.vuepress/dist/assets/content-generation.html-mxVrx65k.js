@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-6e9e7bd7","path":"/prompt-examples/content-generation.html","title":"Content Generation","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"prompt-examples/content-generation.md"}');export{e as data};

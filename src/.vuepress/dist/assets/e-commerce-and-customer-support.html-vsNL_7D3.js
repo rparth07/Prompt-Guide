@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3576c762","path":"/prompt-examples/e-commerce-and-customer-support.html","title":"E-commerce and Customer Support","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"prompt-examples/e-commerce-and-customer-support.md"}');export{e as data};

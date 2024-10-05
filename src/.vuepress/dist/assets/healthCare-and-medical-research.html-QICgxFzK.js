@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-9c71bbfc","path":"/prompt-examples/healthCare-and-medical-research.html","title":"HealthCare and Medical Research","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"prompt-examples/healthCare-and-medical-research.md"}');export{e as data};

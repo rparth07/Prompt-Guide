@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-27b12936","path":"/prompt-examples/cybersecurity.html","title":"Cybersecurity","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706556287000,"contributors":[{"name":"rparth07","email":"pmr642001@gmail.com","commits":1}]},"filePathRelative":"prompt-examples/cybersecurity.md"}');export{e as data};

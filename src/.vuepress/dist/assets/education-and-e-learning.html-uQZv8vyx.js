@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-294fe662","path":"/prompt-examples/education-and-e-learning.html","title":"Education and E-Learning","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"prompt-examples/education-and-e-learning.md"}');export{e as data};
